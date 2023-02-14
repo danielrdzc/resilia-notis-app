@@ -13,7 +13,7 @@
                     </v-row>
                     <v-row class="pa-4">
                         <v-card variant="outlined" v-for="artist in artists">
-                            <v-card-title>Artista 1</v-card-title>
+                            <v-card-title>John Artist</v-card-title>
                         </v-card>
                     </v-row>
 
